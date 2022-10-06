@@ -1,0 +1,33 @@
+{
+  "name": "yes",
+  "version": "1.0.0",
+  "description": "aprender nociones de js",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "https://github.com/camilon10101010/es6-basis.git",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camilon10101010/es6-basis.git"
+  },
+  "keywords": [
+    "es6",
+    "es2015",
+    "funciones"
+  ],
+  "author": "Camilo Ibañez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/camilon10101010/es6-basis/issues"
+  },
+  "homepage": "https://github.com/camilon10101010/es6-basis#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
